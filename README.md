@@ -98,7 +98,6 @@
   <li>Swift 5</li>
   <li>iOS 15+</li>
   <li>GitFlow: Using GitFlow version control system.</li>
-  <li>API: Utilizing Spoonacular API for food information.</li>
 </ul>
 
 <h2 align="center">🛠 Installation 🛠</h2>
