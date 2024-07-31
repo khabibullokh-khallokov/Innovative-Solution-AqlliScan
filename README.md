@@ -50,11 +50,10 @@
   <p>Meet the team behind AqlliScan!</p>
   <table>
     <tr>
-      <td><img src="" alt="Team Member 1" style="width:130px; height:auto; border-radius:50%;"><br>John Doe</td>
-      <td><img src="" alt="Team Member 2" style="width:140px; height:auto; border-radius:50%;"><br>Jane Smith</td>
-      <td><img src="" style="width:100px; height:auto; border-radius:50%;"><br>Alex Johnson</td>
-      <td><img src="" alt="Team Member 4" style="width:140px; height:auto; border-radius:50%;"><br>Emily Davis</td>
-      <td><img src="" alt="Team Member 5" style="width:110px; height:auto; border-radius:50%;"><br>Michael Brown</td>
+      <td><img src="" alt="Team Member 1" style="width:130px; height:auto; border-radius:50%;"><br>Khabibullokh Khallokov</td>
+      <td><img src="" alt="Team Member 2" style="width:140px; height:auto; border-radius:50%;"><br>Aziz Latipov</td>
+      <td><img src="" style="width:100px; height:auto; border-radius:50%;"><br>Bakhodirkhon Khamidov</td>
+      <td><img src="" alt="Team Member 4" style="width:140px; height:auto; border-radius:50%;"><br>Uktamjon Dilbarov</td>
     </tr>
   </table>
 </div>
@@ -71,45 +70,8 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
-</div>
 
-<div align="center">
-  # AqlliScan Project Overview
-
-  ## 📊 Repository Stats
-
-  ![GitHub Stats for AqlliScan](https://github-readme-stats.vercel.app/api?username=YourUsername&repo=AqlliScan&show_icons=true&theme=radical)
-
-  ## 🖥️ Most Used Languages
-
-  [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&repo=AqlliScan&layout=compact)](https://github.com/YourUsername/AqlliScan)
-
-  ## ⭐ Stars and Forks
-
-  ![Stars](https://img.shields.io/github/stars/YourUsername/AqlliScan?style=social)
-  ![Forks](https://img.shields.io/github/forks/YourUsername/AqlliScan?style=social)
-</div>
-
-<div align="center">
-  <h2>🌟 Our Network 🌟</h2>
-  <br>
-  <img width="903" alt="Screenshot" src="https://github.com/user-attachments/assets/21229dad-1a8d-45ca-8853-6de6c0770ec6">
-  <a href="https://github.com/YourUsername/AqlliScan/network" target="_blank">
-    <img src="https://img.shields.io/badge/View_Network-32CD32?style=for-the-badge&logo=github&logoColor=white" alt="View Network Graph" />
-  </a>
-</div>
-
-<br/><br/><br/>
-
-<hr/>
-<h2 align="center">⚡ Team Stats ⚡</h2>
-<br>
-
-<div align="center">
-  <img width="900" alt="Screenshot 1" src="https://github.com/user-attachments/assets/37a1d334-b3f2-4a2b-a647-974801648936">
-  <img width="1085" alt="Screenshot 2" src="https://github.com/user-attachments/assets/5770a6dc-c6b6-4e4a-9436-e65cc35b3c9f">
-</div>
-
+ 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&duration=5000&color=32CD32&center=true&vCenter=true&width=440&height=45&lines=AqlliScan+App+📱;" alt="AqlliScan App">
 </h1>
