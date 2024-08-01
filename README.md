@@ -1,3 +1,9 @@
+
+https://github.com/user-attachments/assets/5e09f446-5b73-4918-b609-3237197ba02f
+
+
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=5000&color=32CD32&center=true&vCenter=true&width=600&height=100&lines=AqlliScan+App;" alt="AqlliScan App">
 </h1>
@@ -39,7 +45,7 @@
 <h2 align="center">⚒️ Technologies Used ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=swift,github,git,figma,discord" /><br>
+    <img src="https://skillicons.dev/icons?i=python,kotlin,swift,github,git,figma,discord,pycharm,windows,vscode,tensorflow,stackoverflow,ps" /><br>
 </div>
 
 <br/>
@@ -50,10 +56,10 @@
   <p>Meet the team behind AqlliScan!</p>
   <table>
     <tr>
-      <td><img src="" alt="Team Member 1" style="width:130px; height:auto; border-radius:50%;"><br>Khabibullokh Khallokov</td>
-      <td><img src="" alt="Team Member 2" style="width:140px; height:auto; border-radius:50%;"><br>Aziz Latipov</td>
-      <td><img src="" style="width:100px; height:auto; border-radius:50%;"><br>Bakhodirkhon Khamidov</td>
-      <td><img src="" alt="Team Member 4" style="width:140px; height:auto; border-radius:50%;"><br>Uktamjon Dilbarov</td>
+      <td><img src="https://github.com/user-attachments/assets/c70fb6a8-7f71-4196-9bcf-2becbcfb4c9d" alt="Team Member 1" style="width:130px; height:auto; border-radius:50%;"><br>Khabibullokh Khallokov</td>
+      <td><img src="https://github.com/user-attachments/assets/5f9d4215-82c6-4e25-b3e2-fad8ee718cab" alt="Team Member 2" style="width:140px; height:auto; border-radius:50%;"><br>Aziz Latipov</td>
+      <td><img src="https://github.com/user-attachments/assets/a5380499-0797-48dd-a54a-0ed4d21e280e" style="width:100px; height:auto; border-radius:50%;"><br>Bakhodirkhon Khamidov</td>
+      <td><img src="https://github.com/user-attachments/assets/8a4c4c39-0c5e-415a-bc33-230e0fa04ac4" alt="Team Member 4" style="width:140px; height:auto; border-radius:50%;"><br>Uktamjon Dilbarov</td>
     </tr>
   </table>
 </div>
@@ -77,32 +83,50 @@
 </h1>
 
 <p align="center">
-  <strong>AqlliScan</strong> is a mobile application that provides users with comprehensive information about food items by scanning barcodes. Users can receive detailed ingredient lists, allergy information, and dietary recommendations.
+  <strong>AqlliScan</strong> is a cutting-edge mobile application designed to empower individuals to make informed dietary and cosmetic choices. By simply scanning barcodes on food items and cosmetics, the app provides detailed ingredient classifications and personalized health recommendations. AqlliScan caters to a wide range of dietary needs and health concerns, ensuring every user can manage their health effectively.
+
 </p>
 
 <h2 align="center">🌟 Features 🌟</h2>
-
-<ul>
-  <li><b>Onboarding Screen:</b> Instructions on how to use the app on first launch.</li>
-  <li><b>Home Screen:</b> Displays popular food items with search functionality and navigation via TabBar.</li>
-  <li><b>Favorites:</b> Ability to add food items to favorites without saving to the database.</li>
-  <li><b>Item Details:</b> Detailed description of food items, including ingredients and dietary information.</li>
-  <li><b>Categories:</b> Browse food items by categories and dietary preferences.</li>
-  <li><b>Add Items:</b> Users can add their own food items through the app interface.</li>
-  <li><b>Profile:</b> User profile with the ability to change avatar.</li>
+<ul style="text-align: left;">
+  <li>🔍 <b>Barcode Scanning:</b> Zap a barcode and instantly know your product. Quick. Easy. Accurate.</li>
+  <li>🌱 <b>Ingredient Classification:</b> Dive deep into what’s inside your food and cosmetics. From the greens of nature to the labs of science, know it all.</li>
+  <li>💡 <b>Personalized Recommendations:</b> Just for you! Get custom advice tailored to your diet and beauty needs, all based on your unique profile.</li>
+  <li>🤔 <b>E-Code Identification:</b> Decode the mystery! Find out if E-codes are Halal, Haram, or Mushbooh at a glance—no more guessing.</li>
+  <li>⏰ <b>Expiration Date Detection:</b> Never miss a date! Our app keeps track of expiration dates, reminding you to use or ditch products on time.</li>
 </ul>
 
 <h2 align="center">🔧 Technical Requirements 🔧</h2>
 
-<ul>
-  <li>Swift 5</li>
-  <li>iOS 15+</li>
-  <li>GitFlow: Using GitFlow version control system.</li>
+<ul style="text-align: left;">
+  <li>🚀 <b>Swift 5:</b> Harness the latest Swift features for rapid and safe iOS development.</li>
+  <li>📱 <b>iOS 15+:</b> Optimized for the latest and greatest in Apple's mobile OS.</li>
+  <li>⚙️ <b>GitFlow:</b> Using the GitFlow version control system to streamline our workflow.</li>
+  <li>🔥 <b>Firebase Firestore:</b> Utilize Google's scalable database for real-time data handling.</li>
+  <li>🍔 <b>Food Facts API:</b> Integrate comprehensive food data for detailed product insights.</li>
 </ul>
 
 <h2 align="center">🛠 Installation 🛠</h2>
 
-```bash
-git clone https://github.com/YourUsername/AqlliScan.git
-cd AqlliScan
-open AqlliScan.xcodeproj
+<p style="text-align: left;">Follow these steps to get AqlliScan up and running on your development machine:</p>
+
+<ol style="text-align: left;">
+  <li><b>Clone the Repository:</b> Start by cloning the repo to your local machine using Git:
+    <pre>git clone https://github.com/YourGitHub/AqlliScan.git</pre>
+  </li>
+  <li><b>Install Dependencies:</b> Navigate into your project directory and install necessary CocoaPods:
+    <pre>cd AqlliScan
+pod install</pre>
+  </li>
+  <li><b>Setup Firebase:</b> Set up Firebase by creating a new project in the Firebase console. Download the <code>GoogleService-Info.plist</code> and add it to your project.</li>
+  <li><b>Integrate Food Facts API:</b> Obtain an API key from Food Facts and configure it within your app settings to access detailed food product data.</li>
+  <li><b>Run the App:</b> Open your project in Xcode by opening the <code>AqlliScan.xcworkspace</code> file, then build and run the application:
+    <pre>open AqlliScan.xcworkspace
+Click 'Run' in Xcode</pre>
+  </li>
+  <li><b>Configure Backend Services:</b> Ensure all backend services such as Firestore are configured according to your Firebase project settings.</li>
+  <li><b>Test the Application:</b> Execute testing protocols to ensure functionality and performance meet the required standards.</li>
+</ol>
+
+
+<img width="1668" alt="AppStore" src="https://github.com/user-attachments/assets/06874b09-936a-413e-96ea-de2d9343dcc1">
