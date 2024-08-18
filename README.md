@@ -150,8 +150,4 @@ Click 'Run' in Xcode</pre>
 | **Healthy Recommendations** | **Track Your Progress** | **Easy Navigation** | **Detailed E-code Analysis** |
 | Get recommendations on healthier food choices based on your preferences. | Keep track of your dietary habits and make informed decisions. | Navigate through the app smoothly to find what you need. | Comprehensive details about each E-code, ensuring full transparency. |
 
-| ![2](https://github.com/user-attachments/assets/4f7f7879-dc55-44a4-91dd-2b50104459a6) | ![1](https://github.com/user-attachments/assets/8ce2bca0-628e-4ca4-bde1-58584cdb3f35) | | |
-|:--:|:--:|:--:|:--:|
-| **Stay Informed** | **Personalized Experience** |  |  |
-| Stay informed about what you eat with accurate and up-to-date information. | Enjoy a personalized experience tailored to your dietary needs. |  |  |
 
