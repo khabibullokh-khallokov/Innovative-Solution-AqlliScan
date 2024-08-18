@@ -1,5 +1,7 @@
 
-https://github.com/user-attachments/assets/5e09f446-5b73-4918-b609-3237197ba02f
+https://github.com/user-attachments/assets/905538d4-f58f-406b-a8e9-a0591b2f14c8
+
+
 
 
 
@@ -56,10 +58,11 @@ https://github.com/user-attachments/assets/5e09f446-5b73-4918-b609-3237197ba02f
   <p>Meet the team behind AqlliScan!</p>
   <table>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/c70fb6a8-7f71-4196-9bcf-2becbcfb4c9d" alt="Team Member 1" style="width:130px; height:auto; border-radius:50%;"><br>Khabibullokh Khallokov</td>
-      <td><img src="https://github.com/user-attachments/assets/5f9d4215-82c6-4e25-b3e2-fad8ee718cab" alt="Team Member 2" style="width:140px; height:auto; border-radius:50%;"><br>Aziz Latipov</td>
-      <td><img src="https://github.com/user-attachments/assets/a5380499-0797-48dd-a54a-0ed4d21e280e" style="width:100px; height:auto; border-radius:50%;"><br>Bakhodirkhon Khamidov</td>
-      <td><img src="https://github.com/user-attachments/assets/8a4c4c39-0c5e-415a-bc33-230e0fa04ac4" alt="Team Member 4" style="width:140px; height:auto; border-radius:50%;"><br>Uktamjon Dilbarov</td>
+      <td><img src="https://github.com/user-attachments/assets/e383456d-bb51-4b57-ba60-d695fe92af64" alt="Team Member 1" style="width:130px; height:auto; border-radius:50%;"><br>Khabibullokh Khallokov</td>
+      <td><img src="https://github.com/user-attachments/assets/70b83931-e31e-46fc-a61f-2243d1e4140d" alt="Team Member 2" style="width:140px; height:auto; border-radius:50%;"><br>Aziz Latipov</td>
+      <td><img src="https://github.com/user-attachments/assets/fa5091cc-a2df-48ce-b615-e38824af5c53" style="width:100px; height:auto; border-radius:50%;"><br>Bakhodirkhon Khamidov</td>
+      <td><img src="https://github.com/user-attachments/assets/11fa963a-7d4e-4313-950e-c268bede54e9" alt="Team Member 4" style="width:140px; height:auto; border-radius:50%;"><br>Uktamjon Dilbarov</td>
+     
     </tr>
   </table>
 </div>
@@ -130,3 +133,4 @@ Click 'Run' in Xcode</pre>
 
 
 <img width="1668" alt="AppStore" src="https://github.com/user-attachments/assets/06874b09-936a-413e-96ea-de2d9343dcc1">
+
