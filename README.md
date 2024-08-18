@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/905538d4-f58f-406b-a8e9-a0591b2f14c8
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+everyone!+👋;+We+are+the+AqlliScan+Team!;" />
 </h1>
-
+<img width="1668" alt="AppStore" src="https://github.com/user-attachments/assets/2a24e054-d53f-4d17-922d-ecb65605d63d">
 <h3 align="center">Passionate software developers from Uzbekistan 🇺🇿</h3>
 
 <br/>
@@ -129,6 +129,7 @@ Click 'Run' in Xcode</pre>
   <li><b>Configure Backend Services:</b> Ensure all backend services such as Firestore are configured according to your Firebase project settings.</li>
   <li><b>Test the Application:</b> Execute testing protocols to ensure functionality and performance meet the required standards.</li>
 </ol>
+
 
 
 
