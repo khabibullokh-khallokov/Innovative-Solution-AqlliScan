@@ -62,7 +62,6 @@ https://github.com/user-attachments/assets/905538d4-f58f-406b-a8e9-a0591b2f14c8
       <td><img src="https://github.com/user-attachments/assets/70b83931-e31e-46fc-a61f-2243d1e4140d" alt="Team Member 2" style="width:140px; height:auto; border-radius:50%;"><br>Aziz Latipov</td>
       <td><img src="https://github.com/user-attachments/assets/fa5091cc-a2df-48ce-b615-e38824af5c53" style="width:100px; height:auto; border-radius:50%;"><br>Bakhodirkhon Khamidov</td>
       <td><img src="https://github.com/user-attachments/assets/11fa963a-7d4e-4313-950e-c268bede54e9" alt="Team Member 4" style="width:140px; height:auto; border-radius:50%;"><br>Uktamjon Dilbarov</td>
-     
     </tr>
   </table>
 </div>
@@ -132,5 +131,26 @@ Click 'Run' in Xcode</pre>
 </ol>
 
 
-<img width="1668" alt="AppStore" src="https://github.com/user-attachments/assets/06874b09-936a-413e-96ea-de2d9343dcc1">
+
+
+
+| ![17](https://github.com/user-attachments/assets/296eb7eb-8d47-4608-84a9-bb9795a745b3) | ![16](https://github.com/user-attachments/assets/3ea4ae78-9353-4838-ae6c-6d2e5b173cc8) | ![14](https://github.com/user-attachments/assets/9019b7f9-c284-40a8-8628-0dea4b313374) | ![13](https://github.com/user-attachments/assets/503b0a61-2a3f-4198-83c7-d278e6573339) |
+|:--:|:--:|:--:|:--:|
+| **Sign In/Sign Up** | **Questionnaire** | **Food Categories** | **E-codes Information** |
+| This is where you either sign in or sign up to access personalized features. | An interactive questionnaire collects your personal information to tailor recommendations. | Explore different food categories and receive healthy recommendations based on your inputs. | Detailed analysis of E-codes, showing their components and whether they're halal, haram, or mushbooh. |
+
+| ![12](https://github.com/user-attachments/assets/0b171b48-b93e-4528-81c1-f46bfb138e1d) | ![10](https://github.com/user-attachments/assets/c26219a7-eee7-40fa-9641-f8ab545adc88) | ![9](https://github.com/user-attachments/assets/305d3b88-c914-45a8-bf21-bd6cd574b323) | ![8](https://github.com/user-attachments/assets/e51beaad-590b-4810-9891-208db2c9eb37) |
+|:--:|:--:|:--:|:--:|
+| **Barcode Scanner** | **Ingredient Text Recognition** | **Settings** | **Saved Scanned Products** |
+| The central feature is a barcode scanner that provides instant product information. | Use the camera to scan ingredient lists and analyze product contents. | Adjust your preferences and app settings for a more personalized experience. | Review and manage all the products you’ve scanned for easy reference. |
+
+| ![7](https://github.com/user-attachments/assets/2449997b-6e87-48ad-87b8-ba7b8c138429) | ![5](https://github.com/user-attachments/assets/cde85ae4-5b72-46ee-bc7a-3c759142ba16) | ![4](https://github.com/user-attachments/assets/7578e2d6-33c1-42ed-8408-e15080a197a6) | ![3](https://github.com/user-attachments/assets/ca6b2932-7001-4001-9de9-ec4ed30926fc) |
+|:--:|:--:|:--:|:--:|
+| **Healthy Recommendations** | **Track Your Progress** | **Easy Navigation** | **Detailed E-code Analysis** |
+| Get recommendations on healthier food choices based on your preferences. | Keep track of your dietary habits and make informed decisions. | Navigate through the app smoothly to find what you need. | Comprehensive details about each E-code, ensuring full transparency. |
+
+| ![2](https://github.com/user-attachments/assets/4f7f7879-dc55-44a4-91dd-2b50104459a6) | ![1](https://github.com/user-attachments/assets/8ce2bca0-628e-4ca4-bde1-58584cdb3f35) | | |
+|:--:|:--:|:--:|:--:|
+| **Stay Informed** | **Personalized Experience** |  |  |
+| Stay informed about what you eat with accurate and up-to-date information. | Enjoy a personalized experience tailored to your dietary needs. |  |  |
 
