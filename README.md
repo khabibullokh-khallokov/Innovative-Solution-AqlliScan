@@ -135,19 +135,16 @@ Click 'Run' in Xcode</pre>
 
 
 
-| ![17](https://github.com/user-attachments/assets/296eb7eb-8d47-4608-84a9-bb9795a745b3) | ![16](https://github.com/user-attachments/assets/3ea4ae78-9353-4838-ae6c-6d2e5b173cc8) | ![14](https://github.com/user-attachments/assets/9019b7f9-c284-40a8-8628-0dea4b313374) | ![13](https://github.com/user-attachments/assets/503b0a61-2a3f-4198-83c7-d278e6573339) |
+
+|![2](https://github.com/user-attachments/assets/92fa0e7b-d1f7-428c-aa11-4aeff0f5f1d4) | ![4](https://github.com/user-attachments/assets/069cf292-6ede-4838-89f7-270a125f3e3b) | ![7](https://github.com/user-attachments/assets/b142470a-3d65-40a1-81a5-cdab77a0d1f9) | ![8](https://github.com/user-attachments/assets/9a4dec0a-897e-4151-9dc0-3c6f8bb05e24) |
 |:--:|:--:|:--:|:--:|
 | **Sign In/Sign Up** | **Questionnaire** | **Food Categories** | **E-codes Information** |
 | This is where you either sign in or sign up to access personalized features. | An interactive questionnaire collects your personal information to tailor recommendations. | Explore different food categories and receive healthy recommendations based on your inputs. | Detailed analysis of E-codes, showing their components and whether they're halal, haram, or mushbooh. |
 
-| ![12](https://github.com/user-attachments/assets/0b171b48-b93e-4528-81c1-f46bfb138e1d) | ![10](https://github.com/user-attachments/assets/c26219a7-eee7-40fa-9641-f8ab545adc88) | ![9](https://github.com/user-attachments/assets/305d3b88-c914-45a8-bf21-bd6cd574b323) | ![8](https://github.com/user-attachments/assets/e51beaad-590b-4810-9891-208db2c9eb37) |
+| ![8](https://github.com/user-attachments/assets/e51beaad-590b-4810-9891-208db2c9eb37) | ![10](https://github.com/user-attachments/assets/c26219a7-eee7-40fa-9641-f8ab545adc88) | ![9](https://github.com/user-attachments/assets/305d3b88-c914-45a8-bf21-bd6cd574b323) | ![saved](https://github.com/user-attachments/assets/ebac4e25-5e00-48cc-b333-b8c282625607) |
 |:--:|:--:|:--:|:--:|
 | **Barcode Scanner** | **Ingredient Text Recognition** | **Settings** | **Saved Scanned Products** |
 | The central feature is a barcode scanner that provides instant product information. | Use the camera to scan ingredient lists and analyze product contents. | Adjust your preferences and app settings for a more personalized experience. | Review and manage all the products you’ve scanned for easy reference. |
 
-| ![7](https://github.com/user-attachments/assets/2449997b-6e87-48ad-87b8-ba7b8c138429) | ![5](https://github.com/user-attachments/assets/cde85ae4-5b72-46ee-bc7a-3c759142ba16) | ![4](https://github.com/user-attachments/assets/7578e2d6-33c1-42ed-8408-e15080a197a6) | ![3](https://github.com/user-attachments/assets/ca6b2932-7001-4001-9de9-ec4ed30926fc) |
-|:--:|:--:|:--:|:--:|
-| **Healthy Recommendations** | **Track Your Progress** | **Easy Navigation** | **Detailed E-code Analysis** |
-| Get recommendations on healthier food choices based on your preferences. | Keep track of your dietary habits and make informed decisions. | Navigate through the app smoothly to find what you need. | Comprehensive details about each E-code, ensuring full transparency. |
 
 
